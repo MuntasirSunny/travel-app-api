@@ -1,6 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");
+const search_hotels = require("../public/json/search_hotels.json");
 
 // Hotel Destinations
 exports.destinations = async function (req, res, next) {
@@ -124,12 +125,12 @@ exports.getHotels = async function (req, res, next) {
     });
   }
 
-  // Path to the JSON file
-  const filePath = path.join(__dirname, "./json/search_hotels.json");
+  // // Path to the JSON file
+  // const filePath = path.join(__dirname, "../public/json/search_hotels.json");
 
-  // Read the JSON file
-  const rawData = fs.readFileSync(filePath, "utf-8");
-  const search_hotels = JSON.parse(rawData);
+  // // Read the JSON file
+  // const rawData = fs.readFileSync(filePath, "utf-8");
+  // const search_hotels = JSON.parse(rawData);
 
   // Filter hotels by city
   const matchedHotels = search_hotels?.searchHotels.find(
