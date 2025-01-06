@@ -125,7 +125,7 @@ exports.getHotels = async function (req, res, next) {
   }
 
   // Path to the JSON file
-  const filePath = path.join(__dirname, "../public/json/search_hotels.json");
+  const filePath = path.join(__dirname, "./json/search_hotels.json");
 
   // Read the JSON file
   const rawData = fs.readFileSync(filePath, "utf-8");
