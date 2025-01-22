@@ -6303,6 +6303,2532 @@
           }
         ]
       }
+    },
+    {
+      "city": "pattaya",
+      "data": {
+        "hotels": [
+          {
+            "hotel_id": 1641813,
+            "accessibilityLabel": "Aster Hotel and Residence by At Mind.\n4 out of 5 stars.\n8.8 Excellent 1545 reviews.\n‎500 m from downtown‬\n‎800 m from beach‬.\nLimited-time Deal.\n Hotel room : 1 bed.\nOriginal price 813 AED. Current price 449 AED..\nIncludes taxes and fees.",
+            "property": {
+              "currency": "THB",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 813.39802653444
+                },
+                "grossPrice": {
+                  "value": 448.995710647011,
+                  "currency": "AED"
+                },
+                "benefitBadges": [
+                  {
+                    "variant": "constructive",
+                    "explanation": "Limited-time Deal",
+                    "text": "Limited-time Deal",
+                    "identifier": "Limited Time Deal"
+                  }
+                ]
+              },
+              "rankingPosition": 0,
+              "propertyClass": 4,
+              "reviewCount": 1545,
+              "isFirstPage": true,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/550539473.jpg?k=8a5325a58552df3a2893ff083784e2a06580d1c02155100bd202c6b2c54ecd6e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/550539473.jpg?k=8a5325a58552df3a2893ff083784e2a06580d1c02155100bd202c6b2c54ecd6e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/550539473.jpg?k=8a5325a58552df3a2893ff083784e2a06580d1c02155100bd202c6b2c54ecd6e&o="
+              ],
+              "optOutFromGalleryChanges": 1,
+              "mainPhotoId": 550539473,
+              "checkoutDate": "2025-01-30",
+              "reviewScoreWord": "Excellent",
+              "reviewScore": 8.8,
+              "longitude": 100.890846848488,
+              "latitude": 12.9373667939703,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "qualityClass": 0,
+              "accuratePropertyClass": 4,
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "countryCode": "th",
+              "blockIds": ["164181339_91960702_0_2_0_220006"],
+              "id": 1641813,
+              "name": "Aster Hotel and Residence by At Mind",
+              "position": 0,
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 5985803,
+            "accessibilityLabel": "OZO North Pattaya.\n4 out of 5 stars.\n8.6 Excellent 1075 reviews.\n‎1.9 km from downtown‬\n‎250 m from beach‬.\n Hotel room : 2 beds.\n617 AED.\nIncludes taxes and fees.",
+            "property": {
+              "isFirstPage": true,
+              "reviewCount": 1075,
+              "propertyClass": 4,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 616.816380874269
+                },
+                "benefitBadges": []
+              },
+              "rankingPosition": 1,
+              "currency": "THB",
+              "reviewScoreWord": "Excellent",
+              "isPreferredPlus": true,
+              "reviewScore": 8.6,
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 267923919,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/267923919.jpg?k=289b97fb14415ac3a9cf9fbe15a4b365077add16a64c95560b60b45b80423963&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/267923919.jpg?k=289b97fb14415ac3a9cf9fbe15a4b365077add16a64c95560b60b45b80423963&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/267923919.jpg?k=289b97fb14415ac3a9cf9fbe15a4b365077add16a64c95560b60b45b80423963&o="
+              ],
+              "blockIds": ["598580310_393814286_2_2_0_31590"],
+              "countryCode": "th",
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "00:00"
+              },
+              "accuratePropertyClass": 4,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "latitude": 12.9496349850479,
+              "longitude": 100.886484398117,
+              "qualityClass": 0,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "checkinDate": "2025-01-29",
+              "position": 1,
+              "name": "OZO North Pattaya",
+              "id": 5985803
+            }
+          },
+          {
+            "hotel_id": 8352130,
+            "accessibilityLabel": "Amethyst Hotel Pattaya.\n4 out of 5 stars.\n9.2 Wonderful 945 reviews.\n‎1.4 km from downtown‬\n‎650 m from beach‬.\n Hotel room : 2 beds.\n500 AED.\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "checkinDate": "2025-01-29",
+              "position": 2,
+              "name": "Amethyst Hotel Pattaya",
+              "id": 8352130,
+              "blockIds": ["835213002_0_1_0_0"],
+              "countryCode": "th",
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "accuratePropertyClass": 4,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "latitude": 12.9275334356179,
+              "longitude": 100.88325612488,
+              "reviewScore": 9.2,
+              "reviewScoreWord": "Wonderful",
+              "isPreferredPlus": true,
+              "checkoutDate": "2025-01-30",
+              "mainPhotoId": 423318862,
+              "optOutFromGalleryChanges": 0,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/423318862.jpg?k=04bc838a77edc41da807ed17da53d4fd145da53f27a056161a3137b3b56761d1&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/423318862.jpg?k=04bc838a77edc41da807ed17da53d4fd145da53f27a056161a3137b3b56761d1&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/423318862.jpg?k=04bc838a77edc41da807ed17da53d4fd145da53f27a056161a3137b3b56761d1&o="
+              ],
+              "isFirstPage": true,
+              "reviewCount": 945,
+              "propertyClass": 4,
+              "rankingPosition": 2,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 499.785115717817
+                },
+                "benefitBadges": []
+              },
+              "currency": "THB"
+            }
+          },
+          {
+            "hotel_id": 10563702,
+            "accessibilityLabel": "LHC HOTEL AND RESORT.\n5 out of 5 stars.\n8.3 Very Good 259 reviews.\n‎Naklua Beach‬ • ‎3.9 km from downtown‬\n‎800 m from beach‬.\n Hotel room : 2 beds.\n131 AED.\nIncludes taxes and fees.",
+            "property": {
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "blockIds": ["1056370205_0_1_0_0"],
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "longitude": 100.897678016286,
+              "latitude": 12.9686706514618,
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "accuratePropertyClass": 5,
+              "position": 3,
+              "checkinDate": "2025-01-29",
+              "name": "LHC HOTEL AND RESORT",
+              "id": 10563702,
+              "propertyClass": 5,
+              "reviewCount": 259,
+              "isFirstPage": true,
+              "currency": "THB",
+              "rankingPosition": 3,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "value": 131.199561500995,
+                  "currency": "AED"
+                },
+                "benefitBadges": []
+              },
+              "checkoutDate": "2025-01-30",
+              "reviewScore": 8.3,
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/482519795.jpg?k=953ea8684c47a463cc2ed9b55d54629dec48fff14fa752adf125c1d7787e94f5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/482519795.jpg?k=953ea8684c47a463cc2ed9b55d54629dec48fff14fa752adf125c1d7787e94f5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/482519795.jpg?k=953ea8684c47a463cc2ed9b55d54629dec48fff14fa752adf125c1d7787e94f5&o="
+              ],
+              "mainPhotoId": 482519795,
+              "optOutFromGalleryChanges": 0
+            }
+          },
+          {
+            "hotel_id": 236434,
+            "accessibilityLabel": "Holiday Inn Pattaya, an IHG Hotel.\n5 out of 5 stars.\n8.6 Excellent 1420 reviews.\n‎1.8 km from downtown‬\n‎Beachfront‬.\n Hotel room : Beds: 1 double or 2 twins.\n938 AED.\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "countryCode": "th",
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "00:00"
+              },
+              "blockIds": ["23643408_348792719_2_2_0"],
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "longitude": 100.885469019413,
+              "latitude": 12.9478009311458,
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "wishlistName": "Pattaya",
+              "accuratePropertyClass": 5,
+              "position": 4,
+              "checkinDate": "2025-01-29",
+              "id": 236434,
+              "name": "Holiday Inn Pattaya, an IHG Hotel",
+              "propertyClass": 5,
+              "reviewCount": 1420,
+              "isFirstPage": true,
+              "currency": "THB",
+              "rankingPosition": 4,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 938.018824711487,
+                  "currency": "AED"
+                }
+              },
+              "checkoutDate": "2025-01-30",
+              "reviewScore": 8.6,
+              "reviewScoreWord": "Excellent",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/606340405.jpg?k=b75e185ef336a10e23b2f9c4d6af600e9eaf91a4345adc6640e1e835602b68cc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/606340405.jpg?k=b75e185ef336a10e23b2f9c4d6af600e9eaf91a4345adc6640e1e835602b68cc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/606340405.jpg?k=b75e185ef336a10e23b2f9c4d6af600e9eaf91a4345adc6640e1e835602b68cc&o="
+              ],
+              "mainPhotoId": 606340405,
+              "optOutFromGalleryChanges": 1
+            }
+          },
+          {
+            "hotel_id": 267631,
+            "accessibilityLabel": "Adelphi Pattaya.\n4 out of 5 stars.\n8.3 Very Good 1422 reviews.\n‎700 m from downtown‬\n‎850 m from beach‬.\n Hotel room : Beds: 1 double or 2 twins.\n356 AED.\nIncludes taxes and fees.",
+            "property": {
+              "reviewCount": 1422,
+              "propertyClass": 4,
+              "isFirstPage": true,
+              "currency": "THB",
+              "priceBreakdown": {
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 355.876974071428
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "rankingPosition": 5,
+              "checkoutDate": "2025-01-30",
+              "reviewScoreWord": "Very Good",
+              "isPreferredPlus": true,
+              "reviewScore": 8.3,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/326159227.jpg?k=87cf9a3b1675eff2c8234637756506db58c9bd3d2ff9e9ca4f1c0330003b6d08&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/326159227.jpg?k=87cf9a3b1675eff2c8234637756506db58c9bd3d2ff9e9ca4f1c0330003b6d08&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/326159227.jpg?k=87cf9a3b1675eff2c8234637756506db58c9bd3d2ff9e9ca4f1c0330003b6d08&o="
+              ],
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 326159227,
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "countryCode": "th",
+              "blockIds": ["26763105_0_1_0_0"],
+              "latitude": 12.9308369481702,
+              "longitude": 100.888274862932,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "accuratePropertyClass": 4,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "checkinDate": "2025-01-29",
+              "position": 5,
+              "id": 267631,
+              "name": "Adelphi Pattaya"
+            }
+          },
+          {
+            "hotel_id": 27271,
+            "accessibilityLabel": "The Bayview Hotel Pattaya.\n4 out of 5 stars.\n8.1 Very Good 1448 reviews.\n‎1.3 km from downtown‬\n‎150 m from beach‬.\n Hotel room : 2 beds.\n405 AED.\nIncludes taxes and fees.",
+            "property": {
+              "position": 6,
+              "checkinDate": "2025-01-29",
+              "name": "The Bayview Hotel Pattaya",
+              "id": 27271,
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "blockIds": ["2727108_0_1_0_0"],
+              "longitude": 100.882338881493,
+              "latitude": 12.9331019039674,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "qualityClass": 0,
+              "accuratePropertyClass": 4,
+              "checkout": {
+                "fromTime": "01:00",
+                "untilTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "checkoutDate": "2025-01-30",
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "reviewScore": 8.1,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/615853512.jpg?k=1946c39dc92f7bd9bbf0fd563f3dd91250d1833b002b74458c051f88b3001e06&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/615853512.jpg?k=1946c39dc92f7bd9bbf0fd563f3dd91250d1833b002b74458c051f88b3001e06&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/615853512.jpg?k=1946c39dc92f7bd9bbf0fd563f3dd91250d1833b002b74458c051f88b3001e06&o="
+              ],
+              "optOutFromGalleryChanges": 1,
+              "mainPhotoId": 615853512,
+              "propertyClass": 4,
+              "reviewCount": 1448,
+              "isFirstPage": true,
+              "currency": "THB",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 404.617684629049
+                },
+                "benefitBadges": []
+              },
+              "rankingPosition": 6
+            }
+          },
+          {
+            "hotel_id": 4358310,
+            "accessibilityLabel": "SN Connx - SHA Plus.\n4 out of 5 stars.\n8.5 Very Good 1654 reviews.\n‎1.7 km from downtown‬\n‎1.4 km from beach‬.\n Hotel room : 2 beds.\n277 AED.\nIncludes taxes and fees.",
+            "property": {
+              "position": 7,
+              "checkinDate": "2025-01-29",
+              "id": 4358310,
+              "name": "SN Connx - SHA Plus",
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "blockIds": ["435831001_0_1_0_0"],
+              "longitude": 100.897295222924,
+              "latitude": 12.9490622706255,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "accuratePropertyClass": 4,
+              "checkout": {
+                "fromTime": "06:00",
+                "untilTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "checkoutDate": "2025-01-30",
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "reviewScore": 8.5,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/196840581.jpg?k=d7e1266dbac07cdd5e702f7b20eb163e46b7b2776b10deb68763afecfe433355&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/196840581.jpg?k=d7e1266dbac07cdd5e702f7b20eb163e46b7b2776b10deb68763afecfe433355&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/196840581.jpg?k=d7e1266dbac07cdd5e702f7b20eb163e46b7b2776b10deb68763afecfe433355&o="
+              ],
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 196840581,
+              "propertyClass": 4,
+              "reviewCount": 1654,
+              "isFirstPage": true,
+              "currency": "THB",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 276.540173163772,
+                  "currency": "AED"
+                }
+              },
+              "rankingPosition": 7
+            }
+          },
+          {
+            "hotel_id": 3962848,
+            "accessibilityLabel": "Grande Centre Point Pattaya.\n5 out of 5 stars.\n9.0 Wonderful 2705 reviews.\n‎1.9 km from downtown‬\n‎550 m from beach‬.\n Hotel room : 2 beds.\n866 AED.\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "blockIds": ["396284801_0_1_0_0"],
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "accuratePropertyClass": 5,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "01:00",
+                "untilTime": "12:00"
+              },
+              "latitude": 12.9502313739719,
+              "longitude": 100.8893205149,
+              "qualityClass": 0,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "checkinDate": "2025-01-29",
+              "position": 8,
+              "id": 3962848,
+              "name": "Grande Centre Point Pattaya",
+              "isFirstPage": true,
+              "reviewCount": 2705,
+              "propertyClass": 5,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "value": 865.762839904803,
+                  "currency": "AED"
+                },
+                "benefitBadges": []
+              },
+              "rankingPosition": 8,
+              "currency": "THB",
+              "reviewScoreWord": "Wonderful",
+              "reviewScore": 9,
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 429355286,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/429355286.jpg?k=015b5b9ffde95b21522e17175d2f2d55e9dba91bd0145a22e4db6aaa142974da&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/429355286.jpg?k=015b5b9ffde95b21522e17175d2f2d55e9dba91bd0145a22e4db6aaa142974da&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/429355286.jpg?k=015b5b9ffde95b21522e17175d2f2d55e9dba91bd0145a22e4db6aaa142974da&o="
+              ]
+            }
+          },
+          {
+            "hotel_id": 4086779,
+            "accessibilityLabel": "DeeProm Pattaya Hotel.\n3 out of 5 stars.\n8.7 Excellent 1075 reviews.\n‎150 m from downtown‬\n‎1.4 km from beach‬.\n Hotel room : 1 bed.\nOriginal price 811 AED. Current price 597 AED..\nIncludes taxes and fees.",
+            "property": {
+              "name": "DeeProm Pattaya Hotel",
+              "id": 4086779,
+              "checkinDate": "2025-01-29",
+              "position": 9,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "accuratePropertyClass": 3,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "latitude": 12.9327435514484,
+              "longitude": 100.894912084656,
+              "blockIds": ["408677902_124976048_1_2_0_138154"],
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "mainPhotoId": 403590497,
+              "optOutFromGalleryChanges": 1,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/403590497.jpg?k=d413157b110c9ab4208374858ea07a4eb3ff24af3337123d392c1c76fde8b369&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/403590497.jpg?k=d413157b110c9ab4208374858ea07a4eb3ff24af3337123d392c1c76fde8b369&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/403590497.jpg?k=d413157b110c9ab4208374858ea07a4eb3ff24af3337123d392c1c76fde8b369&o="
+              ],
+              "reviewScore": 8.7,
+              "reviewScoreWord": "Excellent",
+              "isPreferredPlus": true,
+              "checkoutDate": "2025-01-30",
+              "rankingPosition": 9,
+              "priceBreakdown": {
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 810.910240017114
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 596.829720323334
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "currency": "THB",
+              "isFirstPage": true,
+              "reviewCount": 1075,
+              "propertyClass": 3
+            }
+          },
+          {
+            "hotel_id": 8227746,
+            "accessibilityLabel": "The Quba Boutique Hotel Pattaya.\n5 out of 5 stars.\n8.1 Very Good 1207 reviews.\n‎550 m from downtown‬\n‎800 m from beach‬.\n Hotel room : 1 bed.\nOriginal price 245 AED. Current price 192 AED..\nIncludes taxes and fees.",
+            "property": {
+              "mainPhotoId": 493724714,
+              "optOutFromGalleryChanges": 1,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/493724714.jpg?k=37e10d1849bfefe6fc1cfbc281b56e4ad77912f74e3833ef9ebd97d0dc5c85f8&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/493724714.jpg?k=37e10d1849bfefe6fc1cfbc281b56e4ad77912f74e3833ef9ebd97d0dc5c85f8&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/493724714.jpg?k=37e10d1849bfefe6fc1cfbc281b56e4ad77912f74e3833ef9ebd97d0dc5c85f8&o="
+              ],
+              "reviewScore": 8.1,
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "checkoutDate": "2025-01-30",
+              "rankingPosition": 10,
+              "priceBreakdown": {
+                "grossPrice": {
+                  "value": 191.726135366138,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "value": 245.173524575109,
+                  "currency": "AED"
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "currency": "THB",
+              "isFirstPage": true,
+              "propertyClass": 5,
+              "reviewCount": 1207,
+              "id": 8227746,
+              "name": "The Quba Boutique Hotel Pattaya",
+              "position": 10,
+              "checkinDate": "2025-01-29",
+              "checkout": {
+                "fromTime": "06:00",
+                "untilTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "accuratePropertyClass": 5,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "longitude": 100.89069034618,
+              "latitude": 12.9374537699762,
+              "blockIds": ["822774601_346545102_0_2_0"],
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "23:30"
+              },
+              "countryCode": "th"
+            }
+          },
+          {
+            "hotel_id": 258031,
+            "accessibilityLabel": "Hilton Pattaya.\n5 out of 5 stars.\n8.9 Excellent 2362 reviews.\n‎1.2 km from downtown‬\n‎Beachfront‬.\n Private suite : 1 bed.\n2443 AED.\nIncludes taxes and fees.",
+            "property": {
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "wishlistName": "Pattaya",
+              "accuratePropertyClass": 5,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "longitude": 100.882607102394,
+              "latitude": 12.9347592802612,
+              "blockIds": ["25803107_94369318_2_34_0"],
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "00:00"
+              },
+              "countryCode": "th",
+              "name": "Hilton Pattaya",
+              "id": 258031,
+              "position": 11,
+              "checkinDate": "2025-01-29",
+              "rankingPosition": 11,
+              "priceBreakdown": {
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 2442.59100783045,
+                  "currency": "AED"
+                },
+                "taxExceptions": []
+              },
+              "currency": "THB",
+              "isFirstPage": true,
+              "propertyClass": 5,
+              "reviewCount": 2362,
+              "mainPhotoId": 483811994,
+              "optOutFromGalleryChanges": 0,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/483811994.jpg?k=7e9b3f9d51da2d0efb8ee3d6a3df300c26a1bd6037e29de824c1db1ae38f9b3d&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/483811994.jpg?k=7e9b3f9d51da2d0efb8ee3d6a3df300c26a1bd6037e29de824c1db1ae38f9b3d&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/483811994.jpg?k=7e9b3f9d51da2d0efb8ee3d6a3df300c26a1bd6037e29de824c1db1ae38f9b3d&o="
+              ],
+              "reviewScore": 8.9,
+              "reviewScoreWord": "Excellent",
+              "checkoutDate": "2025-01-30"
+            }
+          },
+          {
+            "hotel_id": 1177465,
+            "accessibilityLabel": "SN Plus Hotel - SHA Plus.\n4 out of 5 stars.\n8.2 Very Good 654 reviews.\n‎1.5 km from downtown‬\n‎1.3 km from beach‬.\n Hotel room : 1 bed.\nOriginal price 1223 AED. Current price 315 AED..\nIncludes taxes and fees.",
+            "property": {
+              "name": "SN Plus Hotel - SHA Plus",
+              "id": 1177465,
+              "position": 12,
+              "checkinDate": "2025-01-29",
+              "accuratePropertyClass": 4,
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "wishlistName": "Pattaya",
+              "longitude": 100.896660942526,
+              "latitude": 12.9474295151361,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "blockIds": ["117746509_88890090_2_2_0_268258"],
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 56997584,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/56997584.jpg?k=99245be43681663eefa65c141449dd3e0c601f78d513e35a949ae2e5f3b68536&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/56997584.jpg?k=99245be43681663eefa65c141449dd3e0c601f78d513e35a949ae2e5f3b68536&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/56997584.jpg?k=99245be43681663eefa65c141449dd3e0c601f78d513e35a949ae2e5f3b68536&o="
+              ],
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "reviewScore": 8.2,
+              "checkoutDate": "2025-01-30",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 1222.80115558136
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 314.993794007021
+                }
+              },
+              "rankingPosition": 12,
+              "currency": "THB",
+              "isFirstPage": true,
+              "propertyClass": 4,
+              "reviewCount": 654
+            }
+          },
+          {
+            "hotel_id": 4871355,
+            "accessibilityLabel": "Holiday Inn Express Pattaya Central, an IHG Hotel.\n4 out of 5 stars.\n8.3 Very Good 2703 reviews.\n‎1.5 km from downtown‬\n‎650 m from beach‬.\n Hotel room : 1 bed.\n382 AED.\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/261860528.jpg?k=af857137f2879347af3ceccfcbddca96bcab51dbe17e4403d827337df11eca6a&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/261860528.jpg?k=af857137f2879347af3ceccfcbddca96bcab51dbe17e4403d827337df11eca6a&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/261860528.jpg?k=af857137f2879347af3ceccfcbddca96bcab51dbe17e4403d827337df11eca6a&o="
+              ],
+              "mainPhotoId": 261860528,
+              "optOutFromGalleryChanges": 1,
+              "checkoutDate": "2025-01-30",
+              "reviewScore": 8.3,
+              "reviewScoreWord": "Very Good",
+              "currency": "THB",
+              "rankingPosition": 13,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 381.801678460346,
+                  "currency": "AED"
+                }
+              },
+              "reviewCount": 2703,
+              "propertyClass": 4,
+              "isFirstPage": true,
+              "name": "Holiday Inn Express Pattaya Central, an IHG Hotel",
+              "id": 4871355,
+              "checkinDate": "2025-01-29",
+              "position": 13,
+              "qualityClass": 0,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "latitude": 12.926654,
+              "longitude": 100.882427,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "accuratePropertyClass": 4,
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "blockIds": ["487135501_348793217_2_1_0"]
+            }
+          },
+          {
+            "hotel_id": 261296,
+            "accessibilityLabel": "Golden Sea Pattaya - SHA Extra Plus.\n4 out of 5 stars.\n7.6 Good 2280 reviews.\n‎1.5 km from downtown‬\n‎700 m from beach‬.\n Hotel room : Beds: 1 double or 2 twins.\n164 AED.\nIncludes taxes and fees.",
+            "property": {
+              "checkinDate": "2025-01-29",
+              "position": 14,
+              "name": "Golden Sea Pattaya - SHA Extra Plus",
+              "id": 261296,
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "blockIds": ["26129603_0_1_0_0"],
+              "latitude": 12.9264356893991,
+              "longitude": 100.88294506073,
+              "qualityClass": 0,
+              "isPreferred": true,
+              "ufi": -3242432,
+              "accuratePropertyClass": 4,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "checkoutDate": "2025-01-30",
+              "reviewScoreWord": "Good",
+              "reviewScore": 7.6,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/330868290.jpg?k=14779939e83413c41700d9481de4ab53b96e05f357760929233a89ae5b275809&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/330868290.jpg?k=14779939e83413c41700d9481de4ab53b96e05f357760929233a89ae5b275809&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/330868290.jpg?k=14779939e83413c41700d9481de4ab53b96e05f357760929233a89ae5b275809&o="
+              ],
+              "optOutFromGalleryChanges": 0,
+              "mainPhotoId": 330868290,
+              "reviewCount": 2280,
+              "propertyClass": 4,
+              "isFirstPage": true,
+              "currency": "THB",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 163.632151872042
+                }
+              },
+              "rankingPosition": 14
+            }
+          },
+          {
+            "hotel_id": 708812,
+            "accessibilityLabel": "Siam@Siam Design Hotel Pattaya.\n5 out of 5 stars.\n8.5 Very Good 2168 reviews.\n‎1.4 km from downtown‬\n‎400 m from beach‬.\nMobile-only price.\n Hotel room : 2 beds.\nOriginal price 649 AED. Current price 584 AED..\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "blockIds": ["70881232_402660626_0_2_0_609386"],
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "accuratePropertyClass": 5,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "latitude": 12.945806,
+              "longitude": 100.888409,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "checkinDate": "2025-01-29",
+              "position": 15,
+              "name": "Siam@Siam Design Hotel Pattaya",
+              "id": 708812,
+              "isFirstPage": true,
+              "reviewCount": 2168,
+              "propertyClass": 5,
+              "priceBreakdown": {
+                "benefitBadges": [
+                  {
+                    "text": "Mobile-only price",
+                    "identifier": "Mobile Rate",
+                    "explanation": "Mobile-only price",
+                    "variant": "constructive"
+                  }
+                ],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 584.089008415689
+                },
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 648.987787128543
+                },
+                "taxExceptions": []
+              },
+              "rankingPosition": 15,
+              "currency": "THB",
+              "reviewScoreWord": "Very Good",
+              "reviewScore": 8.5,
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 1,
+              "mainPhotoId": 535847997,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/535847997.jpg?k=ddab13ec7ba9aab9ac7660742aa9f96d78d8c5b221b7c9f32ffd4dd3f55303ec&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/535847997.jpg?k=ddab13ec7ba9aab9ac7660742aa9f96d78d8c5b221b7c9f32ffd4dd3f55303ec&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/535847997.jpg?k=ddab13ec7ba9aab9ac7660742aa9f96d78d8c5b221b7c9f32ffd4dd3f55303ec&o="
+              ]
+            }
+          },
+          {
+            "hotel_id": 9049930,
+            "accessibilityLabel": "Somerset Pattaya.\n5 out of 5 stars.\n8.9 Excellent 1278 reviews.\n‎950 m from downtown‬\n‎400 m from beach‬.\nMobile-only price.\n Hotel room : 2 beds.\nOriginal price 852 AED. Current price 767 AED..\nIncludes taxes and fees.",
+            "property": {
+              "reviewScore": 8.9,
+              "reviewScoreWord": "Excellent",
+              "checkoutDate": "2025-01-30",
+              "mainPhotoId": 405228515,
+              "optOutFromGalleryChanges": 0,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/405228515.jpg?k=bb6ece2f6e085b3cfab042967c2f57d0f49f71b89bac0406f3ab94a543147c4f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/405228515.jpg?k=bb6ece2f6e085b3cfab042967c2f57d0f49f71b89bac0406f3ab94a543147c4f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/405228515.jpg?k=bb6ece2f6e085b3cfab042967c2f57d0f49f71b89bac0406f3ab94a543147c4f&o="
+              ],
+              "isFirstPage": true,
+              "reviewCount": 1278,
+              "propertyClass": 5,
+              "rankingPosition": 16,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 766.519475377522
+                },
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 851.688305975024
+                },
+                "benefitBadges": [
+                  {
+                    "text": "Mobile-only price",
+                    "identifier": "Mobile Rate",
+                    "variant": "constructive",
+                    "explanation": "Mobile-only price"
+                  }
+                ]
+              },
+              "currency": "THB",
+              "checkinDate": "2025-01-29",
+              "position": 16,
+              "id": 9049930,
+              "name": "Somerset Pattaya",
+              "blockIds": ["904993002_361542885_2_2_0"],
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "accuratePropertyClass": 5,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "latitude": 12.933883418955,
+              "longitude": 100.885447390968
+            }
+          },
+          {
+            "hotel_id": 8145659,
+            "accessibilityLabel": "The Edge central pattaya.\n4 out of 5 for property rating.\n8.5 Very Good 979 reviews.\n‎1.3 km from downtown‬\n‎Beachfront‬.\nMobile-only price.\n Entire apartment – 30 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 681 AED. Current price 564 AED..\nIncludes taxes and fees.\nFree cancellation.",
+            "property": {
+              "currency": "THB",
+              "rankingPosition": 17,
+              "priceBreakdown": {
+                "benefitBadges": [
+                  {
+                    "identifier": "Mobile Rate",
+                    "text": "Mobile-only price",
+                    "variant": "constructive",
+                    "explanation": "Mobile-only price"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 681.43717648497
+                },
+                "grossPrice": {
+                  "value": 564.229982129555,
+                  "currency": "AED"
+                },
+                "taxExceptions": []
+              },
+              "propertyClass": 0,
+              "reviewCount": 979,
+              "isFirstPage": true,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/473517163.jpg?k=e931c0dc6f454d3691a65ea43bc58eb23f4e5152c4f60f98681a1a4d3de61c3f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/473517163.jpg?k=e931c0dc6f454d3691a65ea43bc58eb23f4e5152c4f60f98681a1a4d3de61c3f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/473517163.jpg?k=e931c0dc6f454d3691a65ea43bc58eb23f4e5152c4f60f98681a1a4d3de61c3f&o="
+              ],
+              "mainPhotoId": 473517163,
+              "optOutFromGalleryChanges": 0,
+              "checkoutDate": "2025-01-30",
+              "reviewScore": 8.5,
+              "isPreferredPlus": true,
+              "reviewScoreWord": "Very Good",
+              "isPreferred": true,
+              "ufi": -3242432,
+              "qualityClass": 4,
+              "longitude": 100.8822781,
+              "latitude": 12.9309643,
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "08:00"
+              },
+              "wishlistName": "Pattaya",
+              "accuratePropertyClass": 0,
+              "countryCode": "th",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "blockIds": ["814565901_343869420_2_0_0_700128"],
+              "name": "The Edge central pattaya",
+              "id": 8145659,
+              "position": 17,
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 27637,
+            "accessibilityLabel": "Ibis Pattaya.\n3 out of 5 stars.\n7.6 Good 2021 reviews.\n‎1.6 km from downtown‬\n‎350 m from beach‬.\n Hotel room : 2 beds.\n166 AED.\n+29 AED taxes and charges.",
+            "property": {
+              "blockIds": ["2763703_95151610_2_2_0"],
+              "countryCode": "th",
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "accuratePropertyClass": 3,
+              "wishlistName": "Pattaya",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "latitude": 12.9475107755582,
+              "longitude": 100.88779181242,
+              "qualityClass": 0,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "checkinDate": "2025-01-29",
+              "position": 18,
+              "id": 27637,
+              "name": "Ibis Pattaya",
+              "isFirstPage": true,
+              "reviewCount": 2021,
+              "propertyClass": 3,
+              "priceBreakdown": {
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 166.48159209315,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 29.4672418004875
+                },
+                "taxExceptions": []
+              },
+              "rankingPosition": 18,
+              "currency": "THB",
+              "reviewScoreWord": "Good",
+              "reviewScore": 7.6,
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 1,
+              "mainPhotoId": 83879552,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/83879552.jpg?k=52c266607d06fbe07596ccb6b2b93e580ffa0a3ad0c9cc4f46c713dbe40b8d56&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/83879552.jpg?k=52c266607d06fbe07596ccb6b2b93e580ffa0a3ad0c9cc4f46c713dbe40b8d56&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/83879552.jpg?k=52c266607d06fbe07596ccb6b2b93e580ffa0a3ad0c9cc4f46c713dbe40b8d56&o="
+              ]
+            }
+          },
+          {
+            "hotel_id": 1072626,
+            "accessibilityLabel": "Mercure Pattaya Ocean Resort.\n4 out of 5 stars.\n7.6 Good 1288 reviews.\n‎1.6 km from downtown‬\n‎300 m from beach‬.\n Hotel room : 2 beds.\n393 AED.\n+70 AED taxes and charges.",
+            "property": {
+              "propertyClass": 4,
+              "reviewCount": 1288,
+              "isFirstPage": true,
+              "currency": "THB",
+              "priceBreakdown": {
+                "excludedPrice": {
+                  "value": 69.6352765448378,
+                  "currency": "AED"
+                },
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "value": 393.419641496258,
+                  "currency": "AED"
+                }
+              },
+              "rankingPosition": 19,
+              "checkoutDate": "2025-01-30",
+              "reviewScoreWord": "Good",
+              "reviewScore": 7.6,
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/278515841.jpg?k=bade33018ebfad0a4cbde12af14aacc078aa5f3a9a3cf176c35a366d44c9404e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/278515841.jpg?k=bade33018ebfad0a4cbde12af14aacc078aa5f3a9a3cf176c35a366d44c9404e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/278515841.jpg?k=bade33018ebfad0a4cbde12af14aacc078aa5f3a9a3cf176c35a366d44c9404e&o="
+              ],
+              "optOutFromGalleryChanges": 1,
+              "mainPhotoId": 278515841,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "countryCode": "th",
+              "blockIds": ["107262621_94581396_2_2_0"],
+              "longitude": 100.887564746033,
+              "latitude": 12.9474191214306,
+              "ufi": -3242432,
+              "isPreferred": true,
+              "qualityClass": 0,
+              "accuratePropertyClass": 4,
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "wishlistName": "Pattaya",
+              "position": 19,
+              "checkinDate": "2025-01-29",
+              "name": "Mercure Pattaya Ocean Resort",
+              "id": 1072626
+            }
+          }
+        ],
+        "meta": [
+          {
+            "title": "311 properties"
+          }
+        ],
+        "appear": [
+          {
+            "component": {
+              "props": {
+                "fill": true,
+                "content": {
+                  "props": {
+                    "items": [
+                      {
+                        "props": {
+                          "component": {
+                            "props": {
+                              "items": [
+                                {
+                                  "props": {
+                                    "text": [
+                                      {
+                                        "font": "body_2",
+                                        "text": "Read more on how payments affect the order of listed properties"
+                                      },
+                                      {
+                                        "color": "foreground",
+                                        "font": "strong_2",
+                                        "text": "  "
+                                      },
+                                      {
+                                        "color": "action_foreground",
+                                        "font": "body_2",
+                                        "linkActions": [
+                                          {
+                                            "props": {
+                                              "url": "booking://webview?url=https%3A%2F%2Fm.booking.com%2Fgeneral.en-us.html%3Faid%3D332731%3Btmpl%3Ddocs%2Fterms-and-conditions"
+                                            }
+                                          }
+                                        ],
+                                        "text": "Learn more"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "spacing": "spacing_half"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "props": {}
+                      },
+                      {
+                        "props": {
+                          "component": {
+                            "props": {
+                              "tertiaryTintedColor": "foreground",
+                              "accessibilityLabel": "Close",
+                              "icon": "close",
+                              "variant": "tertiary_tinted"
+                            }
+                          }
+                        }
+                      }
+                    ],
+                    "fitContentWidth": true
+                  }
+                }
+              }
+            },
+            "id": "cma"
+          },
+          {
+            "contentUrl": "https://mobile-apps.booking.com/json/mobile.saba?route_path=saba-chat-entrypoint&add_bh_info=1&add_genius_percentage_value=1&add_ribbon_text=1&affiliate_id=332731&arrival_date=2025-01-29&autoextend=1&booked_x_times_for_dates=1&booked_x_times_threshold=1&categories_filter_additional_data=&change_popularity_sort_option_copy_tag=1&change_sort_options_copy_tags=1&check_excluded_charge_or_tax=1&check_flexible_dates=1&check_is_candidate_wholesaler=1&currency_code=AED&dark_mode=1&deeplink_sec_since_click=168567.9046729803&departure_date=2025-01-30&dest_ids=-3242432&device_id=57d11ec8bad14e119e4c15a86202c23f&distance_unit=metric&dl_sr_adoption=1&dotd=2&exposure_api_version=2.17&fix_dotd=1&flex_window=0&generate_map_bounding_box=1&get_cny_campaign_banner=1&get_skiing_info=1&guest_qty=1&include_amazon_banner=1&include_apartment_config=1&include_badges_in_price_breakdown=1&include_beach_information=1&include_bh_quality_classification=1&include_block_ids=1&include_bsb_info=1&include_bwallet_hotel_eligibility=1&include_composite_breakdown=1&include_cpc_non_trader_copy=1&include_excluded_charges_detail=1&include_free_cancellation=1&include_genius_badge=1&include_last_reservation=1&include_nr_bookings_best_range_message=1&include_nr_bookings_today=1&include_offered_bed_types=1&include_preview_cards=1&include_rack_rate_savings=1&include_rtb=1&include_ski_information=1&languagecode=en-us&location_source=recents&mark_first_highlighted_hotel=1&min_saba_version=31&network_type=wifi&new_segments_carousel=1&offset=0&optimized_call=1&outcome=search_results&page_define_enabled=1&pref_match=0&reason=change_sort_options&remove_wishlist_padding=1&room_qty=1&rows=auto&saba=1&saba_payload_root=1&saba_version=50&sb_calendar_open=1&search_type=city&send_ranking_version=1&send_search_id=1&show_beach_filter_badge=1&show_city_distance=1&show_distance_to_beach=1&show_distance_to_nearest_public_transport=1&show_genius_free_breakfast=0&show_if_mobile_deal=1&show_negotiated_rates=1&show_no_prepayment=1&show_policy=1&show_review_score_breakdowns=1&show_selected_filter_values=1&show_soldout=1&sort_by=auto&sort_by_source=sort_options&sort_genius_new_copy=1&source=search_results&temperature_unit=c&travel_purpose=&unfiltered_count_enabled=1&units=metric&use_dest_based_list_creation=1&use_direct_payment=1&user_os=15.5&user_version=36.8-iphone&categories_filter=price%3A%3AAED-min-max&page=search-results"
+          },
+          {
+            "component": {
+              "props": {
+                "text": "Get instant access to our Genius loyalty program and enjoy discounts at properties worldwide.",
+                "title": "Sign in and save money"
+              }
+            },
+            "id": "signin_now"
+          },
+          {
+            "component": {
+              "props": {
+                "title": "",
+                "text": "Properties with these icons have been awarded Booking.com's quality rating for homes"
+              }
+            },
+            "id": "banner_qualityrating"
+          }
+        ]
+      }
+    },
+    {
+      "city": "kuala lumpur",
+      "data": {
+        "hotels": [
+          {
+            "hotel_id": 13428800,
+            "accessibilityLabel": "The Axon Residence KLCC.\n4 out of 5 for property rating.\n10 Exceptional 6 reviews.\n‎Bukit Bintang‬ • ‎1.2 km from downtown‬.\nLimited-time Deal.\n Entire apartment – 42 m² : 1 bed • 1 bedroom • 1 bathroom.\nOriginal price 931 AED. Current price 372 AED..\n+104 AED taxes and charges.",
+            "property": {
+              "id": 13428800,
+              "reviewScore": 10,
+              "blockIds": ["1342880001_406672209_1_0_0"],
+              "qualityClass": 4,
+              "longitude": 101.7134137,
+              "reviewCount": 6,
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "18:00"
+              },
+              "countryCode": "my",
+              "rankingPosition": 0,
+              "isFirstPage": true,
+              "position": 0,
+              "wishlistName": "Kuala Lumpur",
+              "propertyClass": 0,
+              "mainPhotoId": 636987575,
+              "reviewScoreWord": "Exceptional",
+              "checkout": {
+                "untilTime": "11:00",
+                "fromTime": "08:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/636987575.jpg?k=48ef6acbb497046429efa08d39c0d2b453fe83ece97a79b5c1379108c8667774&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/636987575.jpg?k=48ef6acbb497046429efa08d39c0d2b453fe83ece97a79b5c1379108c8667774&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/636987575.jpg?k=48ef6acbb497046429efa08d39c0d2b453fe83ece97a79b5c1379108c8667774&o="
+              ],
+              "checkinDate": "2025-01-29",
+              "optOutFromGalleryChanges": 0,
+              "accuratePropertyClass": 0,
+              "latitude": 3.1451526,
+              "checkoutDate": "2025-01-30",
+              "name": "The Axon Residence KLCC",
+              "priceBreakdown": {
+                "benefitBadges": [
+                  {
+                    "variant": "constructive",
+                    "text": "Limited-time Deal",
+                    "explanation": "Limited-time Deal",
+                    "identifier": "Limited Time Deal"
+                  }
+                ],
+                "taxExceptions": [],
+                "grossPrice": {
+                  "value": 372.265186096351,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "value": 104.234252106978,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "value": 930.662965240877,
+                  "currency": "AED"
+                }
+              },
+              "currency": "MYR",
+              "ufi": -2403010
+            }
+          },
+          {
+            "hotel_id": 3925083,
+            "accessibilityLabel": "citizenM Kuala Lumpur Bukit Bintang.\n4 out of 5 stars.\n9.0 Wonderful 2292 reviews.\n‎Bukit Bintang‬ • ‎1.1 km from downtown‬.\n Hotel room : 1 bed.\nOriginal price 260 AED. Current price 240 AED..\n+27 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "rankingPosition": 1,
+              "isFirstPage": true,
+              "position": 1,
+              "wishlistName": "Kuala Lumpur",
+              "propertyClass": 4,
+              "mainPhotoId": 269261293,
+              "id": 3925083,
+              "reviewScore": 9,
+              "isPreferredPlus": true,
+              "blockIds": ["392508301_406253671_2_2_0_636838"],
+              "qualityClass": 0,
+              "longitude": 101.706453,
+              "reviewCount": 2292,
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "isPreferred": true,
+              "countryCode": "my",
+              "optOutFromGalleryChanges": 1,
+              "accuratePropertyClass": 4,
+              "latitude": 3.144205,
+              "checkoutDate": "2025-01-30",
+              "name": "citizenM Kuala Lumpur Bukit Bintang",
+              "priceBreakdown": {
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 27.3729808443194
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 239.575954861655
+                },
+                "strikethroughPrice": {
+                  "value": 260.405078369427,
+                  "currency": "AED"
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "currency": "MYR",
+              "ufi": -2403010,
+              "reviewScoreWord": "Wonderful",
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "11:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/269261293.jpg?k=6d5e7a5d9a99967ce4cbc0ad80b037eab5c2f895dadb00e3bccf5b9b9b71f05f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/269261293.jpg?k=6d5e7a5d9a99967ce4cbc0ad80b037eab5c2f895dadb00e3bccf5b9b9b71f05f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/269261293.jpg?k=6d5e7a5d9a99967ce4cbc0ad80b037eab5c2f895dadb00e3bccf5b9b9b71f05f&o="
+              ],
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 6374918,
+            "accessibilityLabel": "Ceylonz Starlight Suites Bukit Bintang.\n5 out of 5 stars.\n8.2 Very Good 5587 reviews.\n‎Bukit Bintang‬ • ‎850 m from downtown‬.\nEarly 2025 Deal.\n Private suite – 38 m² : 2 beds • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 525 AED. Current price 387 AED..\n+42 AED taxes and charges.",
+            "property": {
+              "mainPhotoId": 289539222,
+              "propertyClass": 5,
+              "wishlistName": "Kuala Lumpur",
+              "isFirstPage": true,
+              "position": 2,
+              "rankingPosition": 2,
+              "isPreferred": true,
+              "countryCode": "my",
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "reviewCount": 5587,
+              "longitude": 101.702792,
+              "qualityClass": 0,
+              "blockIds": ["637491806_250949433_0_0_0_253419"],
+              "isPreferredPlus": true,
+              "id": 6374918,
+              "reviewScore": 8.2,
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "text": "Early 2025 Deal",
+                    "explanation": "Early 2025 Deal",
+                    "identifier": "Early Year Deals",
+                    "variant": "constructive"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "value": 525.241885144763,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 386.578027466546
+                },
+                "excludedPrice": {
+                  "value": 41.8223851046518,
+                  "currency": "AED"
+                }
+              },
+              "name": "Ceylonz Starlight Suites Bukit Bintang",
+              "checkoutDate": "2025-01-30",
+              "latitude": 3.148252,
+              "accuratePropertyClass": 5,
+              "optOutFromGalleryChanges": 0,
+              "checkinDate": "2025-01-29",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/289539222.jpg?k=96bb52e4a0e75324ee38bcb0c3e0002dad67db6cb260fcc0212cb9a0315fd308&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/289539222.jpg?k=96bb52e4a0e75324ee38bcb0c3e0002dad67db6cb260fcc0212cb9a0315fd308&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/289539222.jpg?k=96bb52e4a0e75324ee38bcb0c3e0002dad67db6cb260fcc0212cb9a0315fd308&o="
+              ],
+              "checkout": {
+                "untilTime": "11:00",
+                "fromTime": "00:00"
+              },
+              "reviewScoreWord": "Very Good"
+            }
+          },
+          {
+            "hotel_id": 13059355,
+            "accessibilityLabel": "Luxe Suite KLCC.\n5 out of 5 stars.\n9.4 Wonderful 23 reviews.\n‎Chow Kit‬ • ‎1.1 km from downtown‬.\nMobile-only price.\n Entire studio – 58 m² : 1 bed • 1 bedroom • 1 bathroom.\nOriginal price 1661 AED. Current price 442 AED..\n+86 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "wishlistName": "Kuala Lumpur",
+              "isFirstPage": true,
+              "position": 3,
+              "rankingPosition": 3,
+              "mainPhotoId": 628758083,
+              "propertyClass": 5,
+              "qualityClass": 0,
+              "longitude": 101.700683262119,
+              "reviewScore": 9.4,
+              "id": 13059355,
+              "blockIds": ["1305935502_404391444_1_0_0"],
+              "isPreferredPlus": true,
+              "countryCode": "my",
+              "isPreferred": true,
+              "checkin": {
+                "untilTime": "23:30",
+                "fromTime": "15:00"
+              },
+              "reviewCount": 23,
+              "latitude": 3.16121583238443,
+              "accuratePropertyClass": 5,
+              "name": "Luxe Suite KLCC",
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 0,
+              "currency": "MYR",
+              "ufi": -2403010,
+              "priceBreakdown": {
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 1661.23339295496
+                },
+                "grossPrice": {
+                  "value": 441.884356591398,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 86.268845839869
+                },
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "variant": "constructive",
+                    "text": "Mobile-only price",
+                    "explanation": "Mobile-only price",
+                    "identifier": "Mobile Rate"
+                  }
+                ]
+              },
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "09:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/628758083.jpg?k=2ef24c02cb42111f474ba18bbf7e0a254aeee5e0019792ad32bae06470da9e5e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/628758083.jpg?k=2ef24c02cb42111f474ba18bbf7e0a254aeee5e0019792ad32bae06470da9e5e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/628758083.jpg?k=2ef24c02cb42111f474ba18bbf7e0a254aeee5e0019792ad32bae06470da9e5e&o="
+              ],
+              "reviewScoreWord": "Wonderful",
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 12796861,
+            "accessibilityLabel": "AGILE Residence TRX KL 雅居樂吉隆坡.\n3 out of 5 for property rating.\n8.8 Excellent 16 reviews.\n‎1.7 km from downtown‬.\n Private suite – 40 m² : 2 beds • 2 bedrooms • 1 living room • 1 bathroom.\nOriginal price 488 AED. Current price 342 AED..\n+90 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "checkoutDate": "2025-01-30",
+              "name": "AGILE Residence TRX KL 雅居樂吉隆坡",
+              "accuratePropertyClass": 0,
+              "latitude": 3.14604207127139,
+              "optOutFromGalleryChanges": 0,
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 488.310815095522
+                },
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 90.2431213914347
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 341.817570566865
+                }
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/596804748.jpg?k=c89b5d141845dcda9dd69e0ab3b9f3c4b81a453adc8563e08b35847cd57aa4cf&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/596804748.jpg?k=c89b5d141845dcda9dd69e0ab3b9f3c4b81a453adc8563e08b35847cd57aa4cf&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/596804748.jpg?k=c89b5d141845dcda9dd69e0ab3b9f3c4b81a453adc8563e08b35847cd57aa4cf&o="
+              ],
+              "checkout": {
+                "fromTime": "06:00",
+                "untilTime": "12:00"
+              },
+              "reviewScoreWord": "Excellent",
+              "checkinDate": "2025-01-29",
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 4,
+              "position": 4,
+              "isFirstPage": true,
+              "mainPhotoId": 596804748,
+              "propertyClass": 0,
+              "longitude": 101.720727283149,
+              "qualityClass": 3,
+              "isPreferredPlus": true,
+              "blockIds": ["1279686102_401319251_3_0_0"],
+              "id": 12796861,
+              "reviewScore": 8.8,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "reviewCount": 16
+            }
+          },
+          {
+            "hotel_id": 12902711,
+            "accessibilityLabel": "Grand Lumia Suite At Times Square By Imam.\n4 out of 5 stars.\n9.7 Exceptional 3 reviews.\n‎1.4 km from downtown‬.\nEarly 2025 Deal.\n Entire apartment – 51 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 656 AED. Current price 328 AED..\n+87 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "reviewScoreWord": "Exceptional",
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "08:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/618426523.jpg?k=5fd847afff0e26d4a8c9df644ebb8c7a7631365e05b402ddd51cb6a37e6c3279&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/618426523.jpg?k=5fd847afff0e26d4a8c9df644ebb8c7a7631365e05b402ddd51cb6a37e6c3279&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/618426523.jpg?k=5fd847afff0e26d4a8c9df644ebb8c7a7631365e05b402ddd51cb6a37e6c3279&o="
+              ],
+              "checkinDate": "2025-01-29",
+              "optOutFromGalleryChanges": 0,
+              "accuratePropertyClass": 4,
+              "latitude": 3.14204604976599,
+              "checkoutDate": "2025-01-30",
+              "name": "Grand Lumia Suite At Times Square By Imam",
+              "priceBreakdown": {
+                "grossPrice": {
+                  "value": 327.865832992708,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "value": 86.8947043736368,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 655.731665985415
+                },
+                "benefitBadges": [
+                  {
+                    "identifier": "Early Year Deals",
+                    "text": "Early 2025 Deal",
+                    "explanation": "Early 2025 Deal",
+                    "variant": "constructive"
+                  }
+                ],
+                "taxExceptions": []
+              },
+              "currency": "MYR",
+              "ufi": -2403010,
+              "reviewScore": 9.7,
+              "id": 12902711,
+              "isPreferredPlus": true,
+              "blockIds": ["1290271102_403056230_2_0_0"],
+              "qualityClass": 0,
+              "longitude": 101.710534906885,
+              "reviewCount": 3,
+              "checkin": {
+                "untilTime": "21:00",
+                "fromTime": "15:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "rankingPosition": 5,
+              "position": 5,
+              "isFirstPage": true,
+              "wishlistName": "Kuala Lumpur",
+              "propertyClass": 4,
+              "mainPhotoId": 618426523
+            }
+          },
+          {
+            "hotel_id": 5844770,
+            "accessibilityLabel": "Ceylonz Suites by MyKey Global.\n5 out of 5 stars.\n8.0 Very Good 4815 reviews.\n‎Bukit Bintang‬ • ‎850 m from downtown‬.\n Entire studio – 38 m² : 2 beds • 1 bedroom • 1 bathroom.\nOriginal price 525 AED. Current price 338 AED..\n+38 AED taxes and charges.\nFree cancellation.",
+            "property": {
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 6,
+              "position": 6,
+              "isFirstPage": true,
+              "mainPhotoId": 279112990,
+              "propertyClass": 5,
+              "longitude": 101.702792,
+              "qualityClass": 0,
+              "isPreferredPlus": true,
+              "blockIds": ["584477027_365013592_2_0_0"],
+              "reviewScore": 8,
+              "id": 5844770,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "reviewCount": 4815,
+              "checkoutDate": "2025-01-30",
+              "name": "Ceylonz Suites by MyKey Global",
+              "accuratePropertyClass": 5,
+              "latitude": 3.148252,
+              "optOutFromGalleryChanges": 0,
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "benefitBadges": [],
+                "taxExceptions": [],
+                "excludedPrice": {
+                  "value": 37.6204500234937,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "value": 338.255774033227,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "value": 525.241885144763,
+                  "currency": "AED"
+                }
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/279112990.jpg?k=d812cf7ef0a0ada235f87d98174b47be14cf8e30d3ee922333b9a3d4a427bef5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/279112990.jpg?k=d812cf7ef0a0ada235f87d98174b47be14cf8e30d3ee922333b9a3d4a427bef5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/279112990.jpg?k=d812cf7ef0a0ada235f87d98174b47be14cf8e30d3ee922333b9a3d4a427bef5&o="
+              ],
+              "checkout": {
+                "untilTime": "11:00",
+                "fromTime": "00:00"
+              },
+              "reviewScoreWord": "Very Good",
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 4015829,
+            "accessibilityLabel": "Days Hotel & Suites by Wyndham Fraser Business Park KL.\n4 out of 5 stars.\n8.0 Very Good 3450 reviews.\n‎Pudu‬ • ‎2.9 km from downtown‬.\n Hotel room : 2 beds.\nOriginal price 129 AED. Current price 116 AED..\n+8 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "benefitBadges": [],
+                "taxExceptions": [],
+                "grossPrice": {
+                  "value": 116.152318757091,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "value": 8.20690445538701,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "value": 129.053572560959,
+                  "currency": "AED"
+                }
+              },
+              "checkoutDate": "2025-01-30",
+              "name": "Days Hotel & Suites by Wyndham Fraser Business Park KL",
+              "accuratePropertyClass": 4,
+              "latitude": 3.128555,
+              "optOutFromGalleryChanges": 0,
+              "checkinDate": "2025-01-29",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/557347132.jpg?k=735adaa349c03216963d2c8abc1c7fbf3dc2e78d535707768378f4b097c02402&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/557347132.jpg?k=735adaa349c03216963d2c8abc1c7fbf3dc2e78d535707768378f4b097c02402&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/557347132.jpg?k=735adaa349c03216963d2c8abc1c7fbf3dc2e78d535707768378f4b097c02402&o="
+              ],
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "reviewScoreWord": "Very Good",
+              "mainPhotoId": 557347132,
+              "propertyClass": 4,
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 7,
+              "isFirstPage": true,
+              "position": 7,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "14:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "reviewCount": 3450,
+              "longitude": 101.714161,
+              "qualityClass": 0,
+              "isPreferredPlus": true,
+              "blockIds": ["401582906_368927098_2_2_0"],
+              "reviewScore": 8,
+              "id": 4015829
+            }
+          },
+          {
+            "hotel_id": 3395771,
+            "accessibilityLabel": "Hilton Garden Inn Kuala Lumpur - South.\n3 out of 5 stars.\n7.8 Good 5081 reviews.\n‎Chow Kit‬ • ‎1.5 km from downtown‬.\n1 bed.\n152 AED.\n+36 AED taxes and charges.",
+            "property": {
+              "priceBreakdown": {
+                "excludedPrice": {
+                  "value": 35.5358962918255,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 151.827732424658
+                },
+                "taxExceptions": [],
+                "benefitBadges": []
+              },
+              "ufi": -2403010,
+              "currency": "MYR",
+              "optOutFromGalleryChanges": 0,
+              "checkoutDate": "2025-01-30",
+              "name": "Hilton Garden Inn Kuala Lumpur - South",
+              "accuratePropertyClass": 3,
+              "latitude": 3.16383574708075,
+              "checkinDate": "2025-01-29",
+              "reviewScoreWord": "Good",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/591192228.jpg?k=5c9a5dc240acfe9508b314bcded1092d8405b698cb5d5d4a9f8b63a0255e74dc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/591192228.jpg?k=5c9a5dc240acfe9508b314bcded1092d8405b698cb5d5d4a9f8b63a0255e74dc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/591192228.jpg?k=5c9a5dc240acfe9508b314bcded1092d8405b698cb5d5d4a9f8b63a0255e74dc&o="
+              ],
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "propertyClass": 3,
+              "mainPhotoId": 591192228,
+              "rankingPosition": 8,
+              "position": 8,
+              "isFirstPage": true,
+              "wishlistName": "Kuala Lumpur",
+              "reviewCount": 5081,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "blockIds": ["339577103_116588701_1_42_0"],
+              "reviewScore": 7.8,
+              "id": 3395771,
+              "longitude": 101.698283868717,
+              "qualityClass": 0
+            }
+          },
+          {
+            "hotel_id": 8933653,
+            "accessibilityLabel": "Crown Suites Tropicana The Residence KLCC Kuala Lumpur City Center.\n4 out of 5 stars.\n8.6 Excellent 2958 reviews.\n‎In downtown‬.\nLimited-time Deal.\n Entire apartment – 77 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 1523 AED. Current price 320 AED..\n+71 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/578946841.jpg?k=e39f0373e88b2b25de96171b528504ea317a53fccc6f55eb2e1f9399887c33ae&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/578946841.jpg?k=e39f0373e88b2b25de96171b528504ea317a53fccc6f55eb2e1f9399887c33ae&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/578946841.jpg?k=e39f0373e88b2b25de96171b528504ea317a53fccc6f55eb2e1f9399887c33ae&o="
+              ],
+              "reviewScoreWord": "Excellent",
+              "checkinDate": "2025-01-29",
+              "latitude": 3.158648655392,
+              "accuratePropertyClass": 4,
+              "name": "Crown Suites Tropicana The Residence KLCC Kuala Lumpur City Center",
+              "checkoutDate": "2025-01-30",
+              "optOutFromGalleryChanges": 1,
+              "currency": "MYR",
+              "ufi": -2403010,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "identifier": "Limited Time Deal",
+                    "text": "Limited-time Deal",
+                    "explanation": "Limited-time Deal",
+                    "variant": "constructive"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 1523.30815667773
+                },
+                "excludedPrice": {
+                  "value": 70.7297288059503,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 319.896928766527
+                }
+              },
+              "qualityClass": 0,
+              "longitude": 101.709431909193,
+              "reviewScore": 8.6,
+              "id": 8933653,
+              "blockIds": ["893365301_399455925_1_2_0_742765"],
+              "isPreferredPlus": true,
+              "isPreferred": true,
+              "countryCode": "my",
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "00:00"
+              },
+              "reviewCount": 2958,
+              "wishlistName": "Kuala Lumpur",
+              "position": 9,
+              "isFirstPage": true,
+              "rankingPosition": 9,
+              "mainPhotoId": 578946841,
+              "propertyClass": 4
+            }
+          },
+          {
+            "hotel_id": 10728744,
+            "accessibilityLabel": "KLCC Sky Villa Suites Platinum.\n5 out of 5 stars.\n8.6 Excellent 1002 reviews.\n‎In downtown‬.\nEarly 2025 Deal.\n Entire villa – 83 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 1312 AED. Current price 394 AED..\n+99 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "explanation": "Early 2025 Deal",
+                    "text": "Early 2025 Deal",
+                    "identifier": "Early Year Deals",
+                    "variant": "constructive"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "value": 1312.28402241637,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 393.685206724911
+                },
+                "excludedPrice": {
+                  "value": 98.7545020021164,
+                  "currency": "AED"
+                }
+              },
+              "ufi": -2403010,
+              "currency": "MYR",
+              "optOutFromGalleryChanges": 0,
+              "name": "KLCC Sky Villa Suites Platinum",
+              "checkoutDate": "2025-01-30",
+              "latitude": 3.1585325,
+              "accuratePropertyClass": 5,
+              "checkinDate": "2025-01-29",
+              "reviewScoreWord": "Excellent",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/490488046.jpg?k=5571196867f44719349eb84a5e3370265383b7d75223565eb5bcb0b0e2adbc7f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/490488046.jpg?k=5571196867f44719349eb84a5e3370265383b7d75223565eb5bcb0b0e2adbc7f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/490488046.jpg?k=5571196867f44719349eb84a5e3370265383b7d75223565eb5bcb0b0e2adbc7f&o="
+              ],
+              "checkout": {
+                "fromTime": "00:00",
+                "untilTime": "12:00"
+              },
+              "propertyClass": 5,
+              "mainPhotoId": 490488046,
+              "position": 10,
+              "isFirstPage": true,
+              "rankingPosition": 10,
+              "wishlistName": "Kuala Lumpur",
+              "reviewCount": 1002,
+              "isPreferred": true,
+              "countryCode": "my",
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "blockIds": ["1072874402_392419488_2_0_0"],
+              "isPreferredPlus": true,
+              "id": 10728744,
+              "reviewScore": 8.6,
+              "longitude": 101.7038451,
+              "qualityClass": 0
+            }
+          },
+          {
+            "hotel_id": 13320184,
+            "accessibilityLabel": "AXON Suites by Pavilion Forest.\n10 Exceptional 2 reviews.\n‎Bukit Bintang‬ • ‎1.2 km from downtown‬.\nEarly 2025 Deal.\n Private suite – 42 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 639 AED. Current price 384 AED..\n+39 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "checkinDate": "2025-01-29",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/629676537.jpg?k=c39a909f76cde5baaf095a847ecb9c6c88d370f5d2aab6961ac4c2b134276355&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/629676537.jpg?k=c39a909f76cde5baaf095a847ecb9c6c88d370f5d2aab6961ac4c2b134276355&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/629676537.jpg?k=c39a909f76cde5baaf095a847ecb9c6c88d370f5d2aab6961ac4c2b134276355&o="
+              ],
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "08:00"
+              },
+              "reviewScoreWord": "Exceptional",
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "benefitBadges": [
+                  {
+                    "text": "Early 2025 Deal",
+                    "explanation": "Early 2025 Deal",
+                    "identifier": "Early Year Deals",
+                    "variant": "constructive"
+                  }
+                ],
+                "taxExceptions": [],
+                "excludedPrice": {
+                  "value": 38.8941615949698,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 383.590714244785
+                },
+                "strikethroughPrice": {
+                  "value": 639.317857074641,
+                  "currency": "AED"
+                }
+              },
+              "name": "AXON Suites by Pavilion Forest",
+              "checkoutDate": "2025-01-30",
+              "latitude": 3.1455454,
+              "accuratePropertyClass": 0,
+              "optOutFromGalleryChanges": 0,
+              "countryCode": "my",
+              "isPreferred": true,
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "22:00"
+              },
+              "reviewCount": 2,
+              "longitude": 101.7136326,
+              "qualityClass": 0,
+              "blockIds": ["1332018406_405719285_2_0_0"],
+              "isPreferredPlus": true,
+              "id": 13320184,
+              "reviewScore": 10,
+              "mainPhotoId": 629676537,
+              "propertyClass": 0,
+              "wishlistName": "Kuala Lumpur",
+              "position": 11,
+              "isFirstPage": true,
+              "rankingPosition": 11
+            }
+          },
+          {
+            "hotel_id": 13273787,
+            "accessibilityLabel": "Times Square Suite by James.\n4 out of 5 stars.\n9.5 Exceptional 4 reviews.\n‎1.3 km from downtown‬.\nMobile-only price.\n Private suite – 62 m² : 2 beds • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 779 AED. Current price 506 AED..\n+130 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "propertyClass": 4,
+              "mainPhotoId": 626392875,
+              "position": 12,
+              "isFirstPage": true,
+              "rankingPosition": 12,
+              "wishlistName": "Kuala Lumpur",
+              "reviewCount": 4,
+              "countryCode": "my",
+              "isPreferred": true,
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "id": 13273787,
+              "reviewScore": 9.5,
+              "blockIds": ["1327378703_405352408_2_0_0_747186"],
+              "isPreferredPlus": true,
+              "qualityClass": 0,
+              "longitude": 101.7096766,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "variant": "constructive",
+                    "identifier": "Mobile Rate",
+                    "text": "Mobile-only price",
+                    "explanation": "Mobile-only price"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "value": 778.876267338496,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 506.267522043908
+                },
+                "excludedPrice": {
+                  "value": 129.711109745925,
+                  "currency": "AED"
+                }
+              },
+              "currency": "MYR",
+              "ufi": -2403010,
+              "optOutFromGalleryChanges": 0,
+              "latitude": 3.1423835,
+              "accuratePropertyClass": 4,
+              "name": "Times Square Suite by James",
+              "checkoutDate": "2025-01-30",
+              "checkinDate": "2025-01-29",
+              "reviewScoreWord": "Exceptional",
+              "checkout": {
+                "fromTime": "08:00",
+                "untilTime": "12:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/626392875.jpg?k=88544ffd4ae92deb6b2c9d565b1ca11c9a5879dfe6329b24fbea390125da9629&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/626392875.jpg?k=88544ffd4ae92deb6b2c9d565b1ca11c9a5879dfe6329b24fbea390125da9629&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/626392875.jpg?k=88544ffd4ae92deb6b2c9d565b1ca11c9a5879dfe6329b24fbea390125da9629&o="
+              ]
+            }
+          },
+          {
+            "hotel_id": 10468883,
+            "accessibilityLabel": "Star KLCC By B&B.\n5 out of 5 stars.\n8.7 Excellent 679 reviews.\n‎In downtown‬.\nLimited-time Deal.\n Private suite – 54 m² : 2 beds • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 1641 AED. Current price 492 AED..\n+126 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "name": "Star KLCC By B&B",
+              "checkoutDate": "2025-01-30",
+              "latitude": 3.1610411,
+              "accuratePropertyClass": 5,
+              "optOutFromGalleryChanges": 0,
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "identifier": "Limited Time Deal",
+                    "text": "Limited-time Deal",
+                    "explanation": "Limited-time Deal",
+                    "variant": "constructive"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "value": 1640.56020063185,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "value": 126.32723890088,
+                  "currency": "AED"
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 492.168060189554
+                }
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/522942802.jpg?k=34e59ef3bb4ce21de2c0403dcb9153ef64acbedeb03cfec8d4a591e7056120bc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/522942802.jpg?k=34e59ef3bb4ce21de2c0403dcb9153ef64acbedeb03cfec8d4a591e7056120bc&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/522942802.jpg?k=34e59ef3bb4ce21de2c0403dcb9153ef64acbedeb03cfec8d4a591e7056120bc&o="
+              ],
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "09:00"
+              },
+              "reviewScoreWord": "Excellent",
+              "checkinDate": "2025-01-29",
+              "wishlistName": "Kuala Lumpur",
+              "isFirstPage": true,
+              "position": 13,
+              "rankingPosition": 13,
+              "mainPhotoId": 522942802,
+              "propertyClass": 5,
+              "longitude": 101.711762,
+              "qualityClass": 0,
+              "blockIds": ["1046888301_406037048_2_0_0"],
+              "isPreferredPlus": true,
+              "reviewScore": 8.7,
+              "id": 10468883,
+              "isPreferred": true,
+              "countryCode": "my",
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "reviewCount": 679
+            }
+          },
+          {
+            "hotel_id": 10971940,
+            "accessibilityLabel": "Axon Residence Bukit Bintang By TR Suites.\n4 out of 5 for property rating.\n9.1 Wonderful 265 reviews.\n‎Bukit Bintang‬ • ‎1.2 km from downtown‬.\n Private suite : 1 bed.\nOriginal price 259 AED. Current price 233 AED..\n+47 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "priceBreakdown": {
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 232.665741310219
+                },
+                "excludedPrice": {
+                  "value": 47.3374248986718,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 258.517490344688
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "ufi": -2403010,
+              "currency": "MYR",
+              "optOutFromGalleryChanges": 1,
+              "checkoutDate": "2025-01-30",
+              "name": "Axon Residence Bukit Bintang By TR Suites",
+              "accuratePropertyClass": 0,
+              "latitude": 3.145034323745,
+              "checkinDate": "2025-01-29",
+              "reviewScoreWord": "Wonderful",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/504256416.jpg?k=a0c9cdc5ec00e7ae399edbf0d3d4a90c17d2d3adaf77e605a78e7ed87b9d5d5e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/504256416.jpg?k=a0c9cdc5ec00e7ae399edbf0d3d4a90c17d2d3adaf77e605a78e7ed87b9d5d5e&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/504256416.jpg?k=a0c9cdc5ec00e7ae399edbf0d3d4a90c17d2d3adaf77e605a78e7ed87b9d5d5e&o="
+              ],
+              "checkout": {
+                "fromTime": "04:00",
+                "untilTime": "11:00"
+              },
+              "propertyClass": 0,
+              "mainPhotoId": 504256416,
+              "rankingPosition": 14,
+              "position": 14,
+              "isFirstPage": true,
+              "wishlistName": "Kuala Lumpur",
+              "reviewCount": 265,
+              "checkin": {
+                "untilTime": "23:00",
+                "fromTime": "15:00"
+              },
+              "isPreferred": true,
+              "countryCode": "my",
+              "isPreferredPlus": true,
+              "blockIds": ["1097194005_382602780_0_0_0"],
+              "id": 10971940,
+              "reviewScore": 9.1,
+              "longitude": 101.71305633055,
+              "qualityClass": 4
+            }
+          },
+          {
+            "hotel_id": 12127331,
+            "accessibilityLabel": "Agile Residences by Luna.\n3 out of 5 for property rating.\n8.4 Very Good 67 reviews.\n‎1.7 km from downtown‬.\n Private suite : 2 beds • 2 bedrooms • 1 living room • 1 bathroom.\n595 AED.\n+151 AED taxes and charges.",
+            "property": {
+              "mainPhotoId": 592038855,
+              "propertyClass": 0,
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 15,
+              "isFirstPage": true,
+              "position": 15,
+              "checkin": {
+                "untilTime": "00:00",
+                "fromTime": "15:00"
+              },
+              "countryCode": "my",
+              "isPreferred": true,
+              "reviewCount": 67,
+              "qualityClass": 3,
+              "longitude": 101.720752413453,
+              "reviewScore": 8.4,
+              "id": 12127331,
+              "isPreferredPlus": true,
+              "blockIds": ["1212733105_401188608_0_0_0"],
+              "currency": "MYR",
+              "ufi": -2403010,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [],
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 594.590227792782
+                },
+                "excludedPrice": {
+                  "value": 150.908559125655,
+                  "currency": "AED"
+                }
+              },
+              "accuratePropertyClass": 0,
+              "latitude": 3.14595311092745,
+              "checkoutDate": "2025-01-30",
+              "name": "Agile Residences by Luna",
+              "optOutFromGalleryChanges": 0,
+              "checkinDate": "2025-01-29",
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "06:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/592038855.jpg?k=36c43db8c5265cf9da002b3eeafabb9ca3fe69843f863afd4d5f990328118ba3&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/592038855.jpg?k=36c43db8c5265cf9da002b3eeafabb9ca3fe69843f863afd4d5f990328118ba3&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/592038855.jpg?k=36c43db8c5265cf9da002b3eeafabb9ca3fe69843f863afd4d5f990328118ba3&o="
+              ],
+              "reviewScoreWord": "Very Good"
+            }
+          },
+          {
+            "hotel_id": 12122109,
+            "accessibilityLabel": "Imperial KLCC Residences By Perkasa Ikon.\n4 out of 5 for property rating.\n9.3 Wonderful 79 reviews.\n‎In downtown‬.\n Entire apartment – 79 m² : 2 beds • 2 bedrooms • 1 bathroom.\nOriginal price 879 AED. Current price 747 AED..\n+93 AED taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+            "property": {
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "benefitBadges": [],
+                "taxExceptions": [],
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 92.5968615892396
+                },
+                "grossPrice": {
+                  "value": 747.115547096148,
+                  "currency": "AED"
+                },
+                "strikethroughPrice": {
+                  "value": 878.959467171939,
+                  "currency": "AED"
+                }
+              },
+              "checkoutDate": "2025-01-30",
+              "name": "Imperial KLCC Residences By Perkasa Ikon",
+              "accuratePropertyClass": 0,
+              "latitude": 3.1522816,
+              "optOutFromGalleryChanges": 1,
+              "checkinDate": "2025-01-29",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/560664840.jpg?k=41a2cf228cd3e81762b3860cc171adb1de085df21e82b31c7359d2d2f9902c2f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/560664840.jpg?k=41a2cf228cd3e81762b3860cc171adb1de085df21e82b31c7359d2d2f9902c2f&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/560664840.jpg?k=41a2cf228cd3e81762b3860cc171adb1de085df21e82b31c7359d2d2f9902c2f&o="
+              ],
+              "checkout": {
+                "fromTime": "06:00",
+                "untilTime": "12:00"
+              },
+              "reviewScoreWord": "Wonderful",
+              "mainPhotoId": 560664840,
+              "propertyClass": 0,
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 16,
+              "isFirstPage": true,
+              "position": 16,
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "23:00"
+              },
+              "isPreferred": true,
+              "countryCode": "my",
+              "reviewCount": 79,
+              "longitude": 101.7171663,
+              "qualityClass": 4,
+              "isPreferredPlus": true,
+              "blockIds": ["1212210901_393441893_0_2_0"],
+              "reviewScore": 9.3,
+              "id": 12122109
+            }
+          },
+          {
+            "hotel_id": 9938766,
+            "accessibilityLabel": "Harmony Luxury Suites At Lucentia Bukit Bintang City Center.\n4 out of 5 for property rating.\n9.2 Wonderful 783 reviews.\n‎Pudu‬ • ‎1.6 km from downtown‬.\nMobile-only price.\n Entire apartment – 51 m² : 1 bed • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 517 AED. Current price 232 AED..\n+39 AED taxes and charges.\nNo prepayment needed.",
+            "property": {
+              "optOutFromGalleryChanges": 0,
+              "checkoutDate": "2025-01-30",
+              "name": "Harmony Luxury Suites At Lucentia Bukit Bintang City Center",
+              "accuratePropertyClass": 0,
+              "latitude": 3.139344731082,
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "variant": "constructive",
+                    "identifier": "Mobile Rate",
+                    "explanation": "Mobile-only price",
+                    "text": "Mobile-only price"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 517.034980689376
+                },
+                "grossPrice": {
+                  "value": 231.894292291413,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 39.0688045217804
+                }
+              },
+              "ufi": -2403010,
+              "currency": "MYR",
+              "reviewScoreWord": "Wonderful",
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/561005981.jpg?k=edf94e0a57d623853000c9fc6edb180f37cd3bed1cb36d2565ef57a80e4efad5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/561005981.jpg?k=edf94e0a57d623853000c9fc6edb180f37cd3bed1cb36d2565ef57a80e4efad5&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/561005981.jpg?k=edf94e0a57d623853000c9fc6edb180f37cd3bed1cb36d2565ef57a80e4efad5&o="
+              ],
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "06:00"
+              },
+              "checkinDate": "2025-01-29",
+              "rankingPosition": 17,
+              "isFirstPage": true,
+              "position": 17,
+              "wishlistName": "Kuala Lumpur",
+              "propertyClass": 0,
+              "mainPhotoId": 561005981,
+              "isPreferredPlus": true,
+              "blockIds": ["993876608_381761343_1_0_0_355157"],
+              "reviewScore": 9.2,
+              "id": 9938766,
+              "longitude": 101.708692570231,
+              "qualityClass": 4,
+              "reviewCount": 783,
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "00:00"
+              },
+              "isPreferred": true,
+              "countryCode": "my"
+            }
+          },
+          {
+            "hotel_id": 2302911,
+            "accessibilityLabel": "BIG M Hotel.\n2 out of 5 stars.\n8.1 Very Good 1679 reviews.\n‎Golden Triangle‬ • ‎1.3 km from downtown‬.\n Hotel room : 1 bed.\nOriginal price 180 AED. Current price 165 AED..\n+23 AED taxes and charges.",
+            "property": {
+              "wishlistName": "Kuala Lumpur",
+              "rankingPosition": 18,
+              "position": 18,
+              "isFirstPage": true,
+              "mainPhotoId": 101411578,
+              "propertyClass": 2,
+              "longitude": 101.697004884481,
+              "qualityClass": 0,
+              "isPreferredPlus": true,
+              "blockIds": ["230291103_326853782_0_0_0_382514"],
+              "id": 2302911,
+              "reviewScore": 8.1,
+              "checkin": {
+                "fromTime": "14:00",
+                "untilTime": "00:00"
+              },
+              "isPreferred": true,
+              "countryCode": "my",
+              "reviewCount": 1679,
+              "checkoutDate": "2025-01-30",
+              "name": "BIG M Hotel",
+              "accuratePropertyClass": 2,
+              "latitude": 3.14913386841232,
+              "optOutFromGalleryChanges": 0,
+              "ufi": -2403010,
+              "currency": "MYR",
+              "priceBreakdown": {
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 22.5670175952448
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 165.139331451296
+                },
+                "strikethroughPrice": {
+                  "currency": "AED",
+                  "value": 179.501414248223
+                },
+                "benefitBadges": [],
+                "taxExceptions": []
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/101411578.jpg?k=41b4d12a3702875103c1357217a8aad6a7ba245304475f22212a8968d3276981&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/101411578.jpg?k=41b4d12a3702875103c1357217a8aad6a7ba245304475f22212a8968d3276981&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/101411578.jpg?k=41b4d12a3702875103c1357217a8aad6a7ba245304475f22212a8968d3276981&o="
+              ],
+              "checkout": {
+                "untilTime": "12:00",
+                "fromTime": "00:00"
+              },
+              "reviewScoreWord": "Very Good",
+              "checkinDate": "2025-01-29"
+            }
+          },
+          {
+            "hotel_id": 8089987,
+            "accessibilityLabel": "lyf Chinatown Kuala Lumpur.\n4 out of 5 stars.\n8.7 Excellent 1714 reviews.\n‎Bukit Bintang‬ • ‎1.2 km from downtown‬.\nEarly 2025 Deal.\n Entire studio – 18 m² : 1 bed • 1 bedroom • 1 bathroom.\nOriginal price 226 AED. Current price 153 AED..\n+20 AED taxes and charges.\nFree cancellation.",
+            "property": {
+              "checkinDate": "2025-01-29",
+              "reviewScoreWord": "Excellent",
+              "checkout": {
+                "fromTime": "11:00",
+                "untilTime": "12:00"
+              },
+              "photoUrls": [
+                "https://cf.bstatic.com/xdata/images/hotel/square500/605924645.jpg?k=75de4036dfd1c8b3391ae846b0c717befc744507e112b1f913c1536e8928e3b6&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square1024/605924645.jpg?k=75de4036dfd1c8b3391ae846b0c717befc744507e112b1f913c1536e8928e3b6&o=",
+                "https://cf.bstatic.com/xdata/images/hotel/square2000/605924645.jpg?k=75de4036dfd1c8b3391ae846b0c717befc744507e112b1f913c1536e8928e3b6&o="
+              ],
+              "priceBreakdown": {
+                "taxExceptions": [],
+                "benefitBadges": [
+                  {
+                    "identifier": "Early Year Deals",
+                    "explanation": "Early 2025 Deal",
+                    "text": "Early 2025 Deal",
+                    "variant": "constructive"
+                  }
+                ],
+                "strikethroughPrice": {
+                  "value": 225.68987252314,
+                  "currency": "AED"
+                },
+                "excludedPrice": {
+                  "currency": "AED",
+                  "value": 20.4844335206458
+                },
+                "grossPrice": {
+                  "currency": "AED",
+                  "value": 153.469113315735
+                }
+              },
+              "currency": "MYR",
+              "ufi": -2403010,
+              "optOutFromGalleryChanges": 0,
+              "accuratePropertyClass": 4,
+              "latitude": 3.14819,
+              "checkoutDate": "2025-01-30",
+              "name": "lyf Chinatown Kuala Lumpur",
+              "reviewCount": 1714,
+              "checkin": {
+                "fromTime": "15:00",
+                "untilTime": "20:30"
+              },
+              "isPreferred": true,
+              "countryCode": "my",
+              "reviewScore": 8.7,
+              "id": 8089987,
+              "isPreferredPlus": true,
+              "blockIds": ["808998701_373262866_0_2_0_633261"],
+              "qualityClass": 0,
+              "longitude": 101.699179,
+              "propertyClass": 4,
+              "mainPhotoId": 605924645,
+              "rankingPosition": 19,
+              "position": 19,
+              "isFirstPage": true,
+              "wishlistName": "Kuala Lumpur"
+            }
+          }
+        ],
+        "meta": [
+          {
+            "title": "3112 properties"
+          }
+        ],
+        "appear": [
+          {
+            "id": "cma",
+            "component": {
+              "props": {
+                "fill": true,
+                "content": {
+                  "props": {
+                    "items": [
+                      {
+                        "props": {
+                          "component": {
+                            "props": {
+                              "items": [
+                                {
+                                  "props": {
+                                    "text": [
+                                      {
+                                        "text": "Read more on how payments affect the order of listed properties",
+                                        "font": "body_2"
+                                      },
+                                      {
+                                        "font": "strong_2",
+                                        "color": "foreground",
+                                        "text": "  "
+                                      },
+                                      {
+                                        "color": "action_foreground",
+                                        "linkActions": [
+                                          {
+                                            "props": {
+                                              "url": "booking://webview?url=https%3A%2F%2Fm.booking.com%2Fgeneral.en-us.html%3Faid%3D332731%3Btmpl%3Ddocs%2Fterms-and-conditions"
+                                            }
+                                          }
+                                        ],
+                                        "font": "body_2",
+                                        "text": "Learn more"
+                                      }
+                                    ]
+                                  }
+                                }
+                              ],
+                              "spacing": "spacing_half"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "props": {}
+                      },
+                      {
+                        "props": {
+                          "component": {
+                            "props": {
+                              "tertiaryTintedColor": "foreground",
+                              "variant": "tertiary_tinted",
+                              "accessibilityLabel": "Close",
+                              "icon": "close"
+                            }
+                          }
+                        }
+                      }
+                    ],
+                    "fitContentWidth": true
+                  }
+                }
+              }
+            }
+          },
+          {
+            "id": "banner_qualityrating",
+            "component": {
+              "props": {
+                "title": "",
+                "text": "Properties with these icons have been awarded Booking.com's quality rating for homes"
+              }
+            }
+          },
+          {
+            "contentUrl": "https://mobile-apps.booking.com/json/mobile.saba?route_path=saba-chat-entrypoint&add_bh_info=1&add_genius_percentage_value=1&add_ribbon_text=1&affiliate_id=332731&arrival_date=2025-01-29&autoextend=1&booked_x_times_for_dates=1&booked_x_times_threshold=1&categories_filter_additional_data=&change_popularity_sort_option_copy_tag=1&change_sort_options_copy_tags=1&check_excluded_charge_or_tax=1&check_flexible_dates=1&check_is_candidate_wholesaler=1&currency_code=AED&dark_mode=1&deeplink_sec_since_click=168567.9046729803&departure_date=2025-01-30&dest_ids=-2403010&device_id=57d11ec8bad14e119e4c15a86202c23f&distance_unit=metric&dl_sr_adoption=1&dotd=2&exposure_api_version=2.17&fix_dotd=1&flex_window=0&generate_map_bounding_box=1&get_cny_campaign_banner=1&get_skiing_info=1&guest_qty=1&include_amazon_banner=1&include_apartment_config=1&include_badges_in_price_breakdown=1&include_beach_information=1&include_bh_quality_classification=1&include_block_ids=1&include_bsb_info=1&include_bwallet_hotel_eligibility=1&include_composite_breakdown=1&include_cpc_non_trader_copy=1&include_excluded_charges_detail=1&include_free_cancellation=1&include_genius_badge=1&include_last_reservation=1&include_nr_bookings_best_range_message=1&include_nr_bookings_today=1&include_offered_bed_types=1&include_preview_cards=1&include_rack_rate_savings=1&include_rtb=1&include_ski_information=1&languagecode=en-us&location_source=recents&mark_first_highlighted_hotel=1&min_saba_version=31&network_type=wifi&new_segments_carousel=1&offset=0&optimized_call=1&outcome=search_results&page_define_enabled=1&pref_match=0&reason=change_sort_options&remove_wishlist_padding=1&room_qty=1&rows=auto&saba=1&saba_payload_root=1&saba_version=50&sb_calendar_open=1&search_type=city&send_ranking_version=1&send_search_id=1&show_beach_filter_badge=1&show_city_distance=1&show_distance_to_beach=1&show_distance_to_nearest_public_transport=1&show_genius_free_breakfast=0&show_if_mobile_deal=1&show_negotiated_rates=1&show_no_prepayment=1&show_policy=1&show_review_score_breakdowns=1&show_selected_filter_values=1&show_soldout=1&sort_by=auto&sort_by_source=sort_options&sort_genius_new_copy=1&source=search_results&temperature_unit=c&travel_purpose=&unfiltered_count_enabled=1&units=metric&use_dest_based_list_creation=1&use_direct_payment=1&user_os=15.5&user_version=36.8-iphone&categories_filter=price%3A%3AAED-min-max&page=search-results"
+          },
+          {
+            "component": {
+              "props": {
+                "text": "Get instant access to our Genius loyalty program and enjoy discounts at properties worldwide.",
+                "title": "Sign in and save money"
+              }
+            },
+            "id": "signin_now"
+          }
+        ]
+      }
     }
   ]
 }

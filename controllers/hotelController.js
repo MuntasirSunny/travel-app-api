@@ -59,9 +59,9 @@ exports.hotelSearch = async function (req, res, next) {
     url: "https://booking-com15.p.rapidapi.com/api/v1/hotels/searchHotels",
     params: {
       dest_id: destinationId,
-      search_type: "CITY",
-      arrival_date: "2025-01-07",
-      departure_date: "2025-01-08",
+      search_type: "city",
+      arrival_date: "2025-01-30",
+      departure_date: "2025-01-31",
       adults: "2",
       room_qty: "1",
       page_number: "1",
